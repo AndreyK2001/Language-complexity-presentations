@@ -1,2 +1,3 @@
-# Language-complexity-presentations
-Presentations of experiments on language complexity in multilingual language models
+# Языковая сложность в мультиязыковых моделях
+
+Иллюстрационный материал к работе Языковая сложность в мультиязыковых моделях. Основной репозиторий с [экспериментом](https://github.com/AndreyK2001/BERT-Classification)
